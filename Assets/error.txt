@@ -1,0 +1,199 @@
+What is the error in int x = "Hello";? | Type Error | Syntax Error | Runtime Error | Logical Error | A
+
+What is the error in cout << "Hello? | Missing Semicolon | Missing Closing Quote | Undefined Variable | Division by Zero | B
+
+What is wrong with int a = 5 / 0;? | Syntax Error | Runtime Error | Logical Error | Type Error | B
+
+What is the error in for(int i = 0 i < 5; i++)? | Missing Semicolon | Syntax Error | Runtime Error | Logical Error | A
+
+What is wrong in int arr[5]; arr[5] = 10;? | Array Out of Bound | Syntax Error | Runtime Error | Type Error | A
+
+What error occurs with float x = 5.5; int y = x;? | Type Conversion Warning | Syntax Error | Runtime Error | Logical Error | A
+
+What is wrong with int x; cout << y;? | Undefined Variable | Syntax Error | Runtime Error | Type Error | A
+
+Error in if(x = 5)? | Assignment Instead of Comparison | Syntax Error | Logical Error | Runtime Error | A
+
+Error in while(x > 0 { x--; }? | Missing Parenthesis | Syntax Error | Runtime Error | Type Error | B
+
+What is wrong in int main() { return "Hello"; }? | Type Error | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x = 10.5;? | Type Mismatch | Syntax Error | Runtime Error | Logical Error | A
+
+Error in char c = "A";? | Type Error | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int arr[] = {1, 2, 3}; arr[3] = 4;? | Array Out of Bound | Syntax Error | Runtime Error | Type Error | A
+
+Error in cout << "Hello World? | Missing Closing Quote | Syntax Error | Runtime Error | Logical Error | A
+
+Error in for(int i = 0; i < 5 i++)? | Missing Semicolon | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x; x = y + 5;? | Undefined Variable | Syntax Error | Runtime Error | Type Error | A
+
+Error in float x = 5 / 2;? | Integer Division | Syntax Error | Runtime Error | Type Error | A
+
+Error in int *p; cout << *p;? | Uninitialized Pointer | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x; x++; when x not initialized? | Undefined Behavior | Syntax Error | Runtime Error | Type Error | A
+
+Error in int arr[5]; arr[-1] = 10;? | Array Index Out of Bound | Syntax Error | Runtime Error | Type Error | A
+
+Error in if(x == 5); { cout << x; }? | Extra Semicolon | Syntax Error | Runtime Error | Logical Error | A
+
+Error in string s = 5;? | Type Mismatch | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int main { return 0; }? | Missing Parentheses | Syntax Error | Runtime Error | Type Error | A
+
+Error in for(int i = 0; i < 5; i--){}? | Infinite Loop | Syntax Error | Runtime Error | Type Error | A
+
+Error in int x = 2147483648;? | Integer Overflow | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int a = "10";? | Type Mismatch | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x = 5 + "Hello";? | Type Error | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x = 5; if(x > 0) x = x/0;? | Division by Zero | Syntax Error | Type Error | Logical Error | A
+
+Error in int *p = NULL; *p = 5;? | Segmentation Fault | Syntax Error | Runtime Error | Type Error | A
+
+Error in cout << "Hello << endl;? | Missing Closing Quote | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int arr[5]; arr[6] = 10;? | Array Out of Bound | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x = 5 / 0;? | Division by Zero | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x; cout << x;? | Uninitialized Variable | Syntax Error | Runtime Error | Logical Error | A
+
+Error in float x = 3 / 2;? | Integer Division | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x = 10; if(x = 5)? | Assignment instead of comparison | Syntax Error | Runtime Error | Logical Error | A
+
+Error in char c = 'AB';? | Type Error | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int main() { int a; return a; }? | Returning Uninitialized Variable | Syntax Error | Runtime Error | Type Error | A
+
+Error in int arr[5]; arr[5] = 0;? | Array Out of Bound | Syntax Error | Runtime Error | Type Error | A
+
+Error in for(int i = 0; i < 10; i++) i = i--;? | Infinite Loop | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x = "5";? | Type Error | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int *p; delete p;? | Undefined Behavior | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int a = 5.5;? | Type Conversion Warning | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int arr[5] = {1,2,3,4,5,6};? | Too Many Initializers | Syntax Error | Runtime Error | Logical Error | A
+
+Error in cout << 10 << "Hello;? | Missing Closing Quote | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x = 5; if(x == 5); cout << x;? | Extra Semicolon | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x = 5; int y = x + "Hello";? | Type Error | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int arr[5]; arr[-1] = 0;? | Array Index Out of Bound | Syntax Error | Runtime Error | Logical Error | A
+
+Error in float x = 5 / 2;? | Integer Division | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x; x = y + 1;? | Undefined Variable | Syntax Error | Runtime Error | Type Error | A
+
+Error in for(int i = 0; i < 10; i++ i--)? | Missing Semicolon | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x = 5 / 2.0;? | None | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int arr[3] = {1,2};? | Missing Initializer | Syntax Error | Runtime Error | Logical Error | B
+
+Error in int x = 0; while(x < 5) { x--; }? | Infinite Loop | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int *p; cout << p;? | Uninitialized Pointer | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int arr[5]; arr[5] = 0;? | Array Out of Bound | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x; x = x + 1;? | Undefined Behavior | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x = 2147483647 + 1;? | Integer Overflow | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int a = 5 + "5";? | Type Error | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int main() { int x; x++; return x; }? | Uninitialized Variable | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int arr[5] = {1,2,3,4,5,6};? | Too Many Initializers | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x; int y = x + 5;? | Undefined Variable | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int *p = 0; *p = 5;? | Segmentation Fault | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x = 5; if(x = 10)? | Assignment Instead of Comparison | Syntax Error | Runtime Error | Logical Error | A
+
+Error in float x = "5.5";? | Type Error | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x = 5 / 0;? | Division by Zero | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int arr[5]; arr[-2] = 3;? | Array Out of Bound | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x = "Hello";? | Type Error | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x; x = y;? | Undefined Variable | Syntax Error | Runtime Error | Logical Error | A
+
+Error in char c = 65;? | None | Syntax Error | Runtime Error | Logical Error | A
+
+Error in float x = 5 / 2;? | Integer Division | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x = 10; x / 0;? | Division by Zero | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int *p; delete p;? | Undefined Behavior | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int arr[5] = {1,2,3,4}; arr[4]=5;? | None | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int main { return 0; }? | Missing Parentheses | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x = 5 + "5";? | Type Error | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int arr[5]; arr[6] = 7;? | Array Out of Bound | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x; cout << y;? | Undefined Variable | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x; x = x + 1;? | Undefined Behavior | Syntax Error | Runtime Error | Logical Error | A
+
+Error in float x = 5 / 2;? | Integer Division | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x; if(x = 5)? | Assignment Instead of Comparison | Syntax Error | Runtime Error | Logical Error | A
+
+Error in char c = 'AB';? | Type Error | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int main() { int a; return a; }? | Returning Uninitialized Variable | Syntax Error | Runtime Error | Type Error | A
+
+Error in int arr[5]; arr[5] = 0;? | Array Out of Bound | Syntax Error | Runtime Error | Type Error | A
+
+Error in for(int i = 0; i < 10; i++) i = i--;? | Infinite Loop | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x = "5";? | Type Error | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int *p; delete p;? | Undefined Behavior | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int a = 5.5;? | Type Conversion Warning | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int arr[5] = {1,2,3,4,5,6};? | Too Many Initializers | Syntax Error | Runtime Error | Logical Error | A
+
+Error in cout << 10 << "Hello;? | Missing Closing Quote | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x = 5; if(x == 5); cout << x;? | Extra Semicolon | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x = 5; int y = x + "Hello";? | Type Error | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int arr[5]; arr[-1] = 0;? | Array Index Out of Bound | Syntax Error | Runtime Error | Logical Error | A
+
+Error in float x = 5 / 2;? | Integer Division | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x; x = y + 1;? | Undefined Variable | Syntax Error | Runtime Error | Type Error | A
+
+Error in for(int i = 0; i < 10; i++ i--)? | Missing Semicolon | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int x = 5 / 2.0;? | None | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int arr[3] = {1,2};? | Missing Initializer | Syntax Error | Runtime Error | Logical Error | B
+
+Error in int x = 0; while(x < 5) { x--; }? | Infinite Loop | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int *p; cout << p;? | Uninitialized Pointer | Syntax Error | Runtime Error | Logical Error | A
+
+Error in int arr[5]; arr[5] = 0;? | Array Out of Bound | Syntax Error | Runtime Error | Logical Error | A

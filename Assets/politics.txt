@@ -1,0 +1,82 @@
+Current Leader of House in Senate? | Ishaq Dar | Shaukat Tarin | Raja Pervaiz Ashraf | Rehman Malik | A
+Who is current Prime Minister of Pakistan?| Imran Khan | Shehbaz Sharif | Zardari | Bhutto | B
+Current President of Pakistan?| Imran Khan | Asif Ali Zardari | Shehbaz Sharif | Bhutto | B
+Who is Chairman Senate?| Syed Yusuf Raza Gilani | Sadiq Sanjrani | Sarfaraz Ahmed | Rehman Malik | A
+Which party does current PM belong to?| PTI | PML‑N | PPP | MQM | B
+Pakistans capital city is?| Karachi | Islamabad | Lahore | Peshawar | B
+Pakistans national language is?| Sindhi | Urdu | Punjabi | Pashto | B
+National Assembly term length is?| 4 yrs | 5 yrs | 6 yrs | 3 yrs | B
+Senate term length is?| 4 yrs | 5 yrs | 6 yrs | 3 yrs | C
+National Assembly is Pakistans lower house?| Yes | No | Maybe | Unknown | A
+Senate is Pakistans upper house?| No | Yes | Maybe | Unknown | B
+Pakistan became independent in?| 1945 | 1947 | 1950 | 1958 | B
+Year constitution adopted is?| 1956 | 1962 | 1973 | 1985 | C
+Pakistans national sport is?| Cricket | Hockey | Football | Kabaddi | B
+Pakistans national animal is?| Elephant | Tiger | Markhor | Lion | C
+Pakistans national flower?| Rose | Tulip | Jasmine | Lotus | C
+Pakistans national bird?| Sparrow | Peacock | Chukar | Eagle | C
+Pakistans currency is?| Dollar | Rupee | Euro | Pound | B
+Who appoints Chief Justice?| Public | President | Parliament | PM | B
+ECP conducts elections?| Yes | No | Maybe | Unknown | A
+Pakistans flag has crescent & star?| Yes | No | Maybe | Unknown | A
+Prime Minister is head of government?| Yes | No | Maybe | Unknown | A
+President is head of state?| Yes | No | Maybe | Unknown | A
+Federal budget is approved by?| Parliament | President | Army | Courts | A
+Speaker leads National Assembly sessions?| Yes | No | Maybe | Unknown | A
+General elections held every?| 4 yrs | 5 yrs | 6 yrs | 3 yrs | B
+Pakistan has how many provinces?| 3 | 4 | 5 | 6 | B
+Reserved seats for women in NA?| Yes | No | Maybe | Unknown | A
+Voting age in Pakistan is?| 16 | 18 | 21 | 25 | B
+NA has more seats than Senate?| Yes | No | Maybe | Unknown | A
+Senators represent provinces?| Yes | No | Maybe | Unknown | A
+Provincial assemblies make regional laws?| Yes | No | Maybe | Unknown | A
+Who elects PM?| Public | National Assembly | Senate | President | B
+Cabinet ministers chosen by PM?| Yes | No | Maybe | Unknown | A
+Party with most seats forms government?| Yes | No | Maybe | Unknown | A
+Coalition means multiple parties govern?| Yes | No | Maybe | Unknown | A
+Judiciary is independent?| Yes | No | Maybe | Unknown | A
+Army chief is not elected?| Yes | No | Maybe | Unknown | A
+Senate chairman elected by senators?| Yes | No | Maybe | Unknown | A
+National issues debated in NA?| Yes | No | Maybe | Unknown | A
+Laws apply to entire country?| Yes | No | Maybe | Unknown | A
+NA members represent constituencies?| Yes | No | Maybe | Unknown | A
+Senate meets in Islamabad?| Yes | No | Maybe | Unknown | A
+Parliament passes laws?| Yes | No | Maybe | Unknown | A
+Judicial review is power of courts?| Yes | No | Maybe | Unknown | A
+Constitution can be amended by parliament?| Yes | No | Maybe | Unknown | A
+Elections certified by ECP?| Yes | No | Maybe | Unknown | A
+NA quorum is majority?| Yes | No | Maybe | Unknown | A
+Senate quorum is majority?| Yes | No | Maybe | Unknown | A
+NA Speaker elected by NA?| Yes | No | Maybe | Unknown | A
+Provincial governor is appointed by?| Public | President | PM | Assembly | B
+Independent election commission exists?| Yes | No | Maybe | Unknown | A
+Pakistan has federal system?| Yes | No | Maybe | Unknown | A
+Legal system based on constitution?| Yes | No | Maybe | Unknown | A
+Islamabad is planned city?| Yes | No | Maybe | Unknown | A
+Pakistan participates in UN?| Yes | No | Maybe | Unknown | A
+PM can advise dissolution of NA?| Yes | No | Maybe | Unknown | A
+Defence budget part of federal budget?| Yes | No | Maybe | Unknown | A
+Senators serve six years?| Yes | No | Maybe | Unknown | A
+NA members serve five years?| Yes | No | Maybe | Unknown | A
+PM leads government policies?| Yes | No | Maybe | Unknown | A
+Parliament sessions start with oath?| Yes | No | Maybe | Unknown | A
+Laws debated in parliament?| Yes | No | Maybe | Unknown | A
+NA passes budget?| Yes | No | Maybe | Unknown | A
+Judiciary interprets constitution?| Yes | No | Maybe | Unknown | A
+Cabinet runs ministries?| Yes | No | Maybe | Unknown | A
+National day of Pakistan is?| 23 March | 14 August | 1 January | 30 September | B
+Parliament building is in?| Karachi | Islamabad | Lahore | Quetta | B
+Leaders take oath before sitting?| Yes | No | Maybe | Unknown | A
+Provincial assemblies represent provinces?| Yes | No | Maybe | Unknown | A
+Pakistans official motto on flag?| Yes | No | Maybe | Unknown | A
+All senators have equal terms?| Yes | No | Maybe | Unknown | A
+Pakistans government is democratic?| Yes | No | Maybe | Unknown | A
+PM works with cabinet?| Yes | No | Maybe | Unknown | A
+President gives assent to laws?| Yes | No | Maybe | Unknown | A
+Federal govt has ministries?| Yes | No | Maybe | Unknown | A
+NA debates national issues?| Yes | No | Maybe | Unknown | A
+Senate debates national issues?| Yes | No | Maybe | Unknown | A
+National Assembly majority wins confidence?| Yes | No | Maybe | Unknown | A
+Leader of Opposition in Senate exists?| Yes | No | Maybe | Unknown | A
+Province capitals have assemblies?| Yes | No | Maybe | Unknown | A
+Citizens pay taxes for public services?| Yes | No | Maybe | Unknown | A
