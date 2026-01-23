@@ -71,7 +71,7 @@ This project is created for educational purposes.
 You are allowed to use and modify it with proper credit.
 
 🔗 Connect With Me
-👤 Qasim
+👤 Instagram: ch__qasim_7
 📧 GitHub: https://github.com/qasim2k7
 💼 LinkedIn: (Add your LinkedIn profile)
 
