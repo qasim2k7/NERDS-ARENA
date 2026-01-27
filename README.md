@@ -47,8 +47,14 @@ This project demonstrates core programming concepts such as game loops, collisio
 
 🎮 Controls
 Up arrow key --> Move Up
+
+
 Down arrow key --> Move down
+
+
 ESC	Exit Game
+
+
 And other keys are mentioned in the game
 
 📌 Learning Outcomes
