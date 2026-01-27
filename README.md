@@ -46,6 +46,8 @@ This project demonstrates core programming concepts such as game loops, collisio
 - **Version Control:** Git & GitHub  
 
 🎮 Controls
+
+
 Up arrow key --> Move Up
 
 
